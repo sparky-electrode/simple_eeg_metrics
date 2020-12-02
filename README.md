@@ -6,6 +6,8 @@
 ## Initializing the Library
 Load the library by copying or downloading the files to MATLAB and add path to the library using the `addpath(...)` function.
 
+>No external functional dependencies exist for this library.
+
 ## List of Functions:
 <table border="0">
 <tr>
@@ -32,7 +34,8 @@ Load the library by copying or downloading the files to MATLAB and add path to t
 </table>
 <!-- <p style="font-size:5px"><i>more to follow...</i></p> -->
 
->Functional dependencies: No external dependencies exist.
+>Manual for each function can be easily access using the `help` function in MATLAB.
+
 
 # Licensing
 
